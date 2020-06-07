@@ -1,4 +1,4 @@
-(https://links.datacumulus.com/apache-kafka-coupon)
+
 
 # Content
 - Basics of Kafka
